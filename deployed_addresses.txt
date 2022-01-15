@@ -1,4 +1,5 @@
-The marketplace contract has been deployed to Rinkeby. 
-The contract address is 0xBE27b8ef03dbf49F08cDD2C3cB489c863aDFF2f8
+The Dencentralized Marketplace contract has been deployed to Rinkeby. 
 
-https://rinkeby.etherscan.io/address/0xbe27b8ef03dbf49f08cdd2c3cb489c863adff2f8
+The contract address is `0x744d9ce7b1E18C7903D1636c326CB760c7E9A3c6`
+
+https://rinkeby.etherscan.io/address/0x744d9ce7b1E18C7903D1636c326CB760c7E9A3c6

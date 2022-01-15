@@ -10,8 +10,8 @@ For the implementation of these design patterns, OpenZepplin's [OpenZeppelin Sol
 ## Smart Contracts
 This project consists of two smart contracts:
 
- 1. [Marketplace.sol](https://github.com/miield/ConsenSys-Academy-bootcamp-2021-Final-Project/blob/master/contracts/Marketplace.sol)
- 2. [Store.sol](https://github.com/miield/ConsenSys-Academy-bootcamp-2021-Final-Project/blob/master/contracts/Store.sol)
+ 1. [Marketplace.sol](https://github.com/miield/blockchain-developer-bootcamp-final-project/blob/master/contracts/Marketplace.sol)
+ 2. [Store.sol](https://github.com/miield/blockchain-developer-bootcamp-final-project/blob/master/contracts/Store.sol)
 
 The Marketplace smart contract contains the state of admins, store owners, and the number of stores a store owner has. The Store smart contract contains the store's properties and manages the store's items. When a user wants to open a store, she/he can do it by making a call to the `addStore` function in the Marketplace contract. If successful, then the Marketplace contract is made to deploy the Store contract address.
 

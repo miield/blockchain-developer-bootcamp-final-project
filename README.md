@@ -1,9 +1,9 @@
 [![built-with openzeppelin](https://img.shields.io/badge/built%20with-OpenZeppelin-3677FF)](https://docs.openzeppelin.com/)
 
-# Online Marketplace DApp
+# Online Marketplace Decentralized Application
 
 An Online Marketplace that operates on the blockchain.
-Final Project for the ConsenSys Academy 2019 Developer Bootcamp
+Final Project for the ConsenSys Academy 2021 Developer Bootcamp
 
 The central marketplace is managed by a group of administrators. Admins allow store owners to add stores to the marketplace. Store owners can manage their store’s inventory and funds. Shoppers can visit stores and purchase goods that are in stock using cryptocurrency.
 
@@ -20,9 +20,9 @@ A shopper logs into the app. The web app does not recognize their address so the
 ## Documentation 
 
 Refer to:
-[Avoiding Common Attacks](https://github.com/miield/ConsenSys-Academy-bootcamp-2021-Final-Project/blob/master/avoiding_common_attacks.md) 
+[Avoiding Common Attacks](https://github.com/miield/blockchain-developer-bootcamp-final-project/blob/master/avoiding_common_attacks.md) 
 and
-[Design Pattern Decisions](https://github.com/miield/ConsenSys-Academy-bootcamp-2021-Final-Project/blob/master/design_pattern_desicions.md)
+[Design Pattern Decisions](https://github.com/miield/blockchain-developer-bootcamp-final-project/blob/master/design_pattern_desicions.md)
 
 ## Getting Started
 
